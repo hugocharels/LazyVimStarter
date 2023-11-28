@@ -8,10 +8,14 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 ### Neovim
 
 #### With Snap
-`sudo apt install snap`
-
-`sudo snap install nvim --classic`
+```bash
+sudo apt install snap
+```
+```bash
+sudo snap install nvim --classic
+```
 
 ### LazyVim
-
-`git clone https://github.com/hugocharels/LazyVimStarter ~/.config/nvim`
+```bash
+git clone https://github.com/hugocharels/LazyVimStarter ~/.config/nvim
+```
